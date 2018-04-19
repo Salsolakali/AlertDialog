@@ -3,4 +3,5 @@
     <string name="mensaje">Este es un cuadro de dialogo</string>
     <string name="aceptar">Aceptar</string>
     <string name="cancelar">Cancelar</string>
+    <string name="colores">Colores</string>
 </resources>
