@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AlertDialog</string>
+    <string name="mensaje">Este es un cuadro de dialogo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
 </resources>
